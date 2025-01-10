@@ -1,2 +1,0 @@
-# GameTokenGeneratorDapp
-Tocken generation
